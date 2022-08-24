@@ -1,0 +1,17 @@
+{
+  "name": "MultiversusBot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^16.0.1",
+    "multiversus.js": "^2.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
